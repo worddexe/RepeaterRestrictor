@@ -1,0 +1,6 @@
+name: RepeaterRestrictor
+main: me.worddexe.repeaterRestrictor.RepeaterRestrictor
+author: worddexe
+version: 1.0
+api-version: "1.21"
+description: Prevents repeaters from being placed on or above the Nether roof to stop lag machines.
